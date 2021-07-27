@@ -12,10 +12,12 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     backgroundColor: colors.white,
   },
+  
   title: {
     color: colors.text,
     fontSize: 16,
   },
+
   separator: {
     backgroundColor: colors.border,
     height: StyleSheet.hairlineWidth,
